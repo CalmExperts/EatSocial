@@ -23,6 +23,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  # google recommended way to state management in flutter
+  provider: ^4.3.1 
   firebase_auth: ^0.16.1
   cloud_firestore: ^0.13.7
 
